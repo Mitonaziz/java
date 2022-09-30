@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Enter two numbers = ");
         num1=scan.nextInt();
         num2=scan.nextInt();
-        num1+=num2; //Assignment operator
+        num1+=num2; //Assignment operator num1=num1+num2
         System.out.println("sum valu is "+num1);
         num1-=num2;
         System.out.println("sub valu is "+num1);

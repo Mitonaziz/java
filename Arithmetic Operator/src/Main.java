@@ -6,6 +6,15 @@ public class Main {
         num1=30;
         result =num1+num2;
         System.out.println("sum valu is "+result);
+        result =num1-num2;
+        System.out.println("sub valu is "+result);
+        result =num1*num2;
+        System.out.println("multiplication is "+result);
+        result =num1/num2;
+        System.out.println("Div valu is "+result);
+        result =num1%num2;
+        System.out.println("Remainder valu is "+result);
+
 
 
     }

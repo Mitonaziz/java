@@ -14,8 +14,8 @@ public class Main {
         System.out.println("sub valu is "+result);
         result =num1*num2;
         System.out.println("multiplication is "+result);
-        result =num1/num2;
-        System.out.println("Div valu is "+result);
+        double result2 =(double) num1/num2;
+        System.out.println("Div valu is "+result2);
         result =num1%num2;
         System.out.println("Remainder valu is "+result);
 

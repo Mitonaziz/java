@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //the Formula area of triangle 1/2*base *Hight
         Scanner input=new Scanner(System.in);
         double base ,Height,area;
         System.out.print("Enter your base= ");

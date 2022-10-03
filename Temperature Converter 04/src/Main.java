@@ -9,7 +9,11 @@ public class Main {
         System.out.print("Enter your Celsius = " );
         Celsius=input.nextDouble();
         Fahrenheit= 9/5*Celsius+32;
-        System.out.print("Your fahrenheit = "+Fahrenheit);
-
+        System.out.println("Your fahrenheit = "+Fahrenheit);
+        //Celsius C=5/9(F-32)
+        System.out.print("Enter your fahrenheit = " );
+        Celsius=input.nextDouble();
+        Celsius = 9/5*Fahrenheit-32;
+        System.out.print("Your Celsius  = "+Celsius );
     }
 }

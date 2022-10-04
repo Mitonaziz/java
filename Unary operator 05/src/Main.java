@@ -13,5 +13,12 @@ public class Main {
         y=z++;//post Increment
         y=z;
         System.out.println("y= "+y);
+
+        int q=25;
+        int v;
+        v=++q;//pre  Increment
+        v=q;
+        System.out.println("y= "+y);
+
     }
 }

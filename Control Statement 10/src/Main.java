@@ -9,8 +9,11 @@ public class Main {
         if (num>0){
             System.out.println("possitive num");
         }
-        else {
+        else if(num<0){
             System.out.println("nagative num");
+        }
+        else {
+            System.out.println("zero");
         }
 
     }

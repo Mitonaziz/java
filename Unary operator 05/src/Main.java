@@ -19,6 +19,6 @@ public class Main {
         v=++q;//pre  Increment
         v=q;
         System.out.println("y= "+y);
-
+        // same as decrement
     }
 }

@@ -8,7 +8,6 @@ public class Main {
         num= input.nextInt();
         if (num%2==0){
             System.out.println("even ");
-
         }
         else {
             System.out.println("odd");

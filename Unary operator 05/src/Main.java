@@ -7,5 +7,11 @@ public class Main {
         System.out.println("Result = "+Result);
         Result= -x;//Unary -
         System.out.println("Result="+Result);
+        //Increment Decrement
+        int z=25;
+        int y;
+        y=z++;//post Increment
+        y=z;
+        System.out.println("y= "+y);
     }
 }
